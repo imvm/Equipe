@@ -1,0 +1,20 @@
+PODS:
+  - PieCharts (0.0.7)
+  - SideMenu (5.0.3)
+
+DEPENDENCIES:
+  - PieCharts
+  - SideMenu
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - PieCharts
+    - SideMenu
+
+SPEC CHECKSUMS:
+  PieCharts: 30e50dfa7dc19e5b84e9878d32089673ef5d0453
+  SideMenu: 1dcaabce84538c53325c287f7fe62999379a641c
+
+PODFILE CHECKSUM: 20e3387e5e041d2c1508fdeca9f0739de85b4ba5
+
+COCOAPODS: 1.6.1
